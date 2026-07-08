@@ -15,6 +15,7 @@ func main() {
 		"Dimas",
 		"Jek",
 		"Raply",
+		"Rap",
 		"makruf",
 	}
 
